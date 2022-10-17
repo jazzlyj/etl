@@ -1,3 +1,5 @@
+# https://blog.devgenius.io/python-etl-pipeline-the-incremental-data-load-techniques-20bdedaae8f
+
 import pandas as pd
 
 def update_to_sql(df, table_name, key_name):
